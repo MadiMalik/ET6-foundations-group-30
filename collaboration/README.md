@@ -1,9 +1,8 @@
 # Collaboration
 
 <!-- group norms summary -->
-Encourage Open and Respectful Communication:
+
 <!-- group norms list -->
-# Collaborative Group Project Norms
 
 ## 1. Encourage Open and Respectful Communication
 - Ensure all members feel heard and valued in discussions.
