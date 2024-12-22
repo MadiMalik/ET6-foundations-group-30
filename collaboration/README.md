@@ -15,7 +15,8 @@ Our goal is to create a collaborative environment where everyone feels comfortab
 - Use discussions to generate ideas and debates to critically evaluate them while maintaining respect and focusing on project goals.
 
 ### 3. Technical Meetings
-- Use **Slack** as the primary platform for technical discussions to maintain clear and accessible communication.
+- Use **Slack** for technical discussions and project updates.
+- Use **WhatsApp** for urgent matters and quick clarifications.
 
 ### 4. Reminders for Code Review
 - To ensure timely code reviews, feel free to send a friendly reminder on Slack or WhatsApp when necessary.
