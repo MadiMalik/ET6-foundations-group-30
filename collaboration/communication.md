@@ -20,10 +20,10 @@ ______________________________________________________________________
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Adding availability to the schedule
+- **Pull Requests**: Reviewing each other's code and giving feedback
+- **Slack/Discord**: Email, Slack, and WhatsApp
+- **Video Calls**: Zoom and Google Meet 
 
 ______________________________________________________________________
 
@@ -33,20 +33,20 @@ ______________________________________________________________________
 
 | Day | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | |
 ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
-| _name_ | | | | | | | |
+**Madiha**| Monday &check;| Tuesday &check;| Wednesday &check;| Thursday &check;| Friday &check;| Saturday &check;| Sunday &check;|  |
 
 ### How many hours everyone has per day
 
 - name: _5h_;
 - name: _6h_;
-- name: _5h_;
+- Madiha: _5h_;
 - name: _4h_;
 - name: _3h_;
 
 ## Asking for Help
 
 There's a fine line between confidently learning from your mistakes, and
-stubbornly getting no where. Here is a general guide for when to ask for help
+stubbornly getting nowhere. Here is a general guide for when to ask for help
 based on how long you've been stuck on the same problem:
 
 1. _0 -> 30 min_: Try on your own
